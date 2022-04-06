@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+<platos plato='Ensaladas'>
+ <nombre>Ensalada a la española</nombre>
+ <precio>8,50€ </precio>
+ <descripcion>Es una ensalada casera, que lleva cosas tipicas de España</descripcion>
+ <calorias> 800 kcal </calorias>
+ <ingredientes>
+ <item >./img/lactosa.jpg</item>
+
+  </ingredientes>
+
+
+      
+</platos>
+
+<platos plato='Ensaladas'>
+ <nombre>Ensalada templada</nombre>
+ <precio>8,00€ </precio>
+ <descripcion>Es una ensalada casera, con ingredientes del mar</descripcion>
+ <calorias> 850 kcal </calorias>
+ <ingredientes>
+ <item>./img/lactosa.jpg</item>
+  </ingredientes>
+
+
+      
+</platos>
+<platos plato='Ensaladas'>
+ <nombre>Ensalada casa Raul</nombre>
+ <precio>9,00€ </precio>
+ <descripcion>Es una ensalada casera, tipica del restaurante</descripcion>
+ <calorias> 680 kcal </calorias>
+ <ingredientes>
+ <item>./img/lactosa.jpg</item>
+<item>./img/gluten1.png</item>
+ 
+ 
+  </ingredientes>
+
+
+      
+</platos>
+
+<platos plato='Entrantes'>
+ <nombre>Jamón Iberico</nombre>
+ <precio>5,00€ </precio>
+ <descripcion>Es un entrante para quitar el habmbre, bastante jamón</descripcion>
+ <calorias> 230 kcal </calorias>
+ <ingredientes>
+ <item>./img/toro.png</item>
+
+  </ingredientes>
+
+
+      
+
+</platos>
+    <platos plato='Entrantes'>
+ <nombre>Queso Añejo</nombre>
+ <precio>4,90€ </precio>
+ <descripcion>Es un entrante para quitar el hambre,lleno de queso para los amantes del queso</descripcion>
+ <calorias> 430 kcal </calorias>
+    <ingredientes>
+ <item>./img/lactosa.jpg</item>
+
+     </ingredientes>
+
+
+      
+    </platos>
+        <platos plato='Entrantes'>
+ <nombre>Patatas Bravas</nombre>
+ <precio>4,99€ </precio>
+ <descripcion>Es un entrante para quitar el hambre, Plato completo</descripcion>
+ <calorias> 234 kcal </calorias>
+    <ingredientes>
+ <item>./img/gindilla.png</item>
+ 
+
+     </ingredientes>
+
+
+      
+    </platos>
+            <platos plato='1r plato'>
+ <nombre>Entrecot con patatas</nombre>
+ <precio>14,99€ </precio>
+ <descripcion>Un primer plato lleno de carne con la mejor combinacion las patatas, Plato completo</descripcion>
+ <calorias> 600 kcal </calorias>
+    <ingredientes>
+ <item>./img/toro.png</item>
+ <item>./img/gluten1.png</item>
+ 
+
+     </ingredientes>
+
+
+      
+    </platos>
+                <platos plato='1r plato'>
+ <nombre>Calamarcitos picantes</nombre>
+ <precio>10,94€ </precio>
+ <descripcion>Un primer plato lleno de calamares con salsa picante, amas el picante? cogelo</descripcion>
+ <calorias> 345 kcal </calorias>
+    <ingredientes>
+ <item>./img/gindilla.png</item>
+  <item>./img/toro.png</item>
+ 
+
+     </ingredientes>
+
+
+      
+    </platos>
+                    <platos plato='1r plato'>
+ <nombre>Conejo al ajillo</nombre>
+ <precio>12,97€ </precio>
+ <descripcion>Un conejo recien hecho a quien no le apetece, con la salsa especial de la casa </descripcion>
+ <calorias> 423 kcal </calorias>
+    <ingredientes>
+ <item>./img/toro.png</item>
+ <item>./img/gluten1.png</item>
+ 
+
+     </ingredientes>
+
+
+      
+    </platos>
+                        <platos plato='1r plato'>
+ <nombre>Gaspacho marinal</nombre>
+ <precio>6,97€ </precio>
+ <descripcion>Gaspacho especial de España con toque Italiano </descripcion>
+ <calorias> 112 kcal </calorias>
+    <ingredientes>
+ 
+<item>./img/gluten1.png</item>
+<item>./img/toro.png</item>
+ 
+
+     </ingredientes>
+
+
+      
+    </platos>
+                            <platos plato='1r plato'>
+ <nombre>Pizza de jamon y queso</nombre>
+ <precio>14,47€ </precio>
+ <descripcion>Pizza hecha como en Italia, la mejor pizza? La de casa Raul </descripcion>
+ <calorias> 612 kcal </calorias>
+    <ingredientes>
+ 
+<item>./img/gluten1.png</item>
+  <item>./img/lactosa.jpg</item>
+ 
+
+     </ingredientes>
+
+
+      
+    </platos>
+                                <platos plato='2r plato'>
+ <nombre>Pizza de peperonni</nombre>
+ <precio>15,00€ </precio>
+ <descripcion>Pizza hecha como en Italia, la mejor pizza? La de casa Raul </descripcion>
+ <calorias> 645 kcal </calorias>
+    <ingredientes>
+
+<item>./img/gluten1.png</item>
+  
+ 
+
+     </ingredientes>
+
+
+      
+    </platos>
+                                   <platos plato='2r plato'>
+ <nombre>Pizza de 4 quesos</nombre>
+ <precio>15,00€ </precio>
+ <descripcion>Pizza hecha como en Italia, la mejor pizza? La de casa Raul </descripcion>
+ <calorias> 645 kcal </calorias>
+    <ingredientes>
+
+<item>./img/gluten1.png</item>
+ <item>./img/lactosa.jpg</item>
+  
+ 
+
+     </ingredientes>
+
+
+      
+    </platos>
+                                       <platos plato='2r plato'>
+ <nombre>Pollo al horno</nombre>
+ <precio>12,00€ </precio>
+ <descripcion>Pollo asado de la mejor manera </descripcion>
+ <calorias> 425 kcal </calorias>
+    <ingredientes>
+ <item>./img/toro.png</item>
+
+  
+ 
+
+     </ingredientes>
+
+
+      
+    </platos>
+                                           <platos plato='2r plato'>
+ <nombre>Albondigas con tomate</nombre>
+ <precio>8,00€ </precio>
+ <descripcion>Ricas albondigas, con salsa de tomate </descripcion>
+ <calorias> 329 kcal </calorias>
+    <ingredientes>
+  <item>./img/gluten1.png</item>
+  <item>./img/toro.png</item>
+
+  
+ 
+
+     </ingredientes>
+
+
+      
+    </platos>
+                                               <platos plato='2r plato'>
+ <nombre>Churrasco plancha</nombre>
+ <precio>12,00€ </precio>
+ <descripcion>Plato de churrasco para comer bien y no engordar </descripcion>
+ <calorias> 229 kcal </calorias>
+    <ingredientes>
+ <item>./img/toro.png</item>
+ 
+  
+ 
+
+     </ingredientes>
+
+
+      
+    </platos>
+
+                                                      <platos plato='Postres'>
+ <nombre>Tarta de queso</nombre>
+ <precio>5,00€ </precio>
+ <descripcion>Tarta de queso con salsa de fresa </descripcion>
+ <calorias> 329 kcal </calorias>
+    <ingredientes>
+ <item>./img/lactosa.jpg</item>
+ <item>./img/gluten1.png</item>
+ 
+  
+ 
+
+     </ingredientes>
+
+
+      
+    </platos>
+                                                         <platos plato='Postres'>
+ <nombre>Helado de limon</nombre>
+ <precio>3,60€ </precio>
+ <descripcion>Delicioso helado de limon para quitar el calor </descripcion>
+ <calorias> 129 kcal </calorias>
+    <ingredientes>
+<item>./img/gluten1.png</item>
+ 
+  
+ 
+
+     </ingredientes>
+
+
+      
+    </platos>
+                                                             <platos plato='Postres'>
+ <nombre>Helado de fresa</nombre>
+ <precio>3,60€ </precio>
+ <descripcion>Delicioso helado de fresa para quitar el calor </descripcion>
+ <calorias> 129 kcal </calorias>
+    <ingredientes>
+
+  <item>./img/lactosa.jpg</item>
+  
+ 
+
+     </ingredientes>
+
+
+      
+    </platos>
+
+    
+</menu>

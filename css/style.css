@@ -1,0 +1,45 @@
+body {
+    background-color: cornsilk;
+}
+
+.ensalada {
+    font-size: 2cm;
+    color: slategray;
+}
+
+.Entrantes {
+    font-size: 2cm;
+    color: slategray;
+}
+
+.primerplato {
+    font-size: 2cm;
+    color: slategray;
+}
+
+.segundoplato {
+    font-size: 2cm;
+    color: slategray;
+}
+
+.Postres {
+    font-size: 2cm;
+    color: slategray;
+}
+
+.titulo {
+    padding-left: 25%;
+    font-size: 2.5cm;
+    align-items: center;
+    color: black;
+}
+
+.column3 {
+    width: 33.33%;
+    float: left;
+}
+
+img {
+    width: 27px;
+    height: 27px;
+}
